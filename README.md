@@ -1,16 +1,12 @@
 # Hi, I'm Samir Patro 👋
 
-I'm an AI Engineer and MS Computer Graphics student passionate about building intelligent, interactive systems that combine **Agentic AI, Computer Graphics, and Extended Reality (XR)**. I enjoy solving challenging engineering problems by blending AI with immersive technologies to create practical, human-centered applications.
-
-My work spans AI agents, multimodal AI systems, 3D graphics, AR/VR applications, computer vision, and interactive visualization. I have experience taking projects from research prototypes to production, whether it's developing AI-powered platforms, optimizing deep learning models, creating real-time graphics pipelines, or building immersive XR experiences.
+I'm an AI Engineer and MS Computer Graphics student passionate about building intelligent, interactive systems that combine **Agentic AI, Computer Graphics, and Extended Reality (XR)**. My work spans AI agents, multimodal AI systems, 3D graphics, AR/VR applications, and computer vision. I have experience taking projects from research prototypes to production, whether it's developing AI-powered platforms, optimizing deep learning models, creating real-time graphics pipelines, or building immersive XR experiences.
 
 ### 🚀 What I'm currently working on
 
 * 🤖 Agentic AI systems and autonomous workflows
-* 🗺️ AI-powered geospatial and document intelligence
 * 🥽 XR applications for education, healthcare, and manufacturing
-* 🎮 Real-time computer graphics and 3D interaction
-* 🧠 Computer vision and multimodal AI
+* 🧠 Deep learning for digital human modelling
 
 ### 🛠️ Tech Stack
 
