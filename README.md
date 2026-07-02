@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Samir Patro 👋
 
-<!--
-**Sam-0505/Sam-0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer and MS Computer Graphics student passionate about building intelligent, interactive systems that combine **Agentic AI, Computer Graphics, and Extended Reality (XR)**. I enjoy solving challenging engineering problems by blending AI with immersive technologies to create practical, human-centered applications.
 
-Here are some ideas to get you started:
+My work spans AI agents, multimodal AI systems, 3D graphics, AR/VR applications, computer vision, and interactive visualization. I have experience taking projects from research prototypes to production, whether it's developing AI-powered platforms, optimizing deep learning models, creating real-time graphics pipelines, or building immersive XR experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on
+
+* 🤖 Agentic AI systems and autonomous workflows
+* 🗺️ AI-powered geospatial and document intelligence
+* 🥽 XR applications for education, healthcare, and manufacturing
+* 🎮 Real-time computer graphics and 3D interaction
+* 🧠 Computer vision and multimodal AI
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, C++, C#, JavaScript, TypeScript, Java
+
+**AI & ML:** PyTorch, TensorFlow, Hugging Face, LangGraph, LangChain, LLMs, Computer Vision
+
+**Graphics & XR:** Unity, Unreal Engine, OpenGL, GLSL, Blender, AR/VR, Meta Quest
+
+**Web & Backend:** React, Node.js, Express, FastAPI, Flask, MongoDB, SQL
+
+### 🌱 Interests
+
+I'm particularly interested in the future of intelligent 3D systems, where AI can understand, generate, and interact with virtual environments. My goal is to build technologies that make human-computer interaction more natural, immersive, and impactful.
+
+Thanks for stopping by! Feel free to explore my repositories, and if you'd like to collaborate on AI, graphics, or XR projects, I'd love to connect.
