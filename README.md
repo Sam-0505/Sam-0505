@@ -23,3 +23,8 @@ I'm an AI Engineer and MS Computer Graphics student passionate about building in
 I'm particularly interested in the future of intelligent 3D systems, where AI can understand, generate, and interact with virtual environments. My goal is to build technologies that make human-computer interaction more natural, immersive, and impactful.
 
 Thanks for stopping by! Feel free to explore my repositories, and if you'd like to collaborate on AI, graphics, or XR projects, I'd love to connect.
+
+
+### ✈️ Other places to learn more about me and my work:
+- 💼 [LinkedIn](https://www.linkedin.com/in/samirpatro)
+- 🌍 [Portfolio](https://portfolio-skp.netlify.app/)
