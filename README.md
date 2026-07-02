@@ -25,6 +25,6 @@ I'm particularly interested in the future of intelligent 3D systems, where AI ca
 Thanks for stopping by! Feel free to explore my repositories, and if you'd like to collaborate on AI, graphics, or XR projects, I'd love to connect.
 
 
-### ✈️ Other places to learn more about me and my work:
+### ✈️ You can reach out to me using:
 - 💼 [LinkedIn](https://www.linkedin.com/in/samirpatro)
 - 🌍 [Portfolio](https://portfolio-skp.netlify.app/)
